@@ -1,6 +1,6 @@
 # ChangeDisplayResolution
 
-A small Windows utility that changes a selected display to a configured resolution and refresh rate.
+A small Windows utility that changes a selected display to a configured resolution and refresh rate. This utility shows it's full strength when combined with a keyboard shortcut to execute the program.
 
 ## Config File
 
